@@ -5,7 +5,7 @@
 import random
 
 numDecimal = random.randint(0, 255)
-binario = ""
+#binario = ""
 
 opcion = int(input("Ingresa '1' para jugar de Decimal a Binario. Ingresa '2' para jugar de Binario a Decimal: "))
 
